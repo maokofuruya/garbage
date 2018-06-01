@@ -7,6 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D19764521FD169280067DF08 /* gomiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19764511FD169280067DF08 /* gomiViewController.swift */; };
+		D197647F1FE3CFB50067DF08 /* bin.png in Resources */ = {isa = PBXBuildFile; fileRef = D197646D1FE3CFB50067DF08 /* bin.png */; };
+		D19764801FE3CFB50067DF08 /* bottle.png in Resources */ = {isa = PBXBuildFile; fileRef = D197646E1FE3CFB50067DF08 /* bottle.png */; };
+		D19764811FE3CFB50067DF08 /* can.png in Resources */ = {isa = PBXBuildFile; fileRef = D197646F1FE3CFB50067DF08 /* can.png */; };
+		D19764821FE3CFB50067DF08 /* denchi.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764701FE3CFB50067DF08 /* denchi.png */; };
+		D19764831FE3CFB50067DF08 /* gomiyashiki.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764711FE3CFB50067DF08 /* gomiyashiki.png */; };
+		D19764841FE3CFB50067DF08 /* kami.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764721FE3CFB50067DF08 /* kami.png */; };
+		D19764851FE3CFB50067DF08 /* kinzoku.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764731FE3CFB50067DF08 /* kinzoku.png */; };
+		D19764861FE3CFB50067DF08 /* moenai.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764741FE3CFB50067DF08 /* moenai.png */; };
+		D19764871FE3CFB50067DF08 /* moeru.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764751FE3CFB50067DF08 /* moeru.png */; };
+		D19764881FE3CFB50067DF08 /* namagomi.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764761FE3CFB50067DF08 /* namagomi.png */; };
+		D19764891FE3CFB50067DF08 /* petbottle.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764771FE3CFB50067DF08 /* petbottle.png */; };
+		D197648A1FE3CFB50067DF08 /* plastic.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764781FE3CFB50067DF08 /* plastic.png */; };
+		D197648B1FE3CFB50067DF08 /* shigen.png in Resources */ = {isa = PBXBuildFile; fileRef = D19764791FE3CFB50067DF08 /* shigen.png */; };
+		D197648C1FE3CFB50067DF08 /* sodai.png in Resources */ = {isa = PBXBuildFile; fileRef = D197647A1FE3CFB50067DF08 /* sodai.png */; };
+		D197648D1FE3CFB50067DF08 /* sonohoka.png in Resources */ = {isa = PBXBuildFile; fileRef = D197647B1FE3CFB50067DF08 /* sonohoka.png */; };
+		D197648E1FE3CFB50067DF08 /* sutiroru.png in Resources */ = {isa = PBXBuildFile; fileRef = D197647C1FE3CFB50067DF08 /* sutiroru.png */; };
+		D197648F1FE3CFB50067DF08 /* truck.png in Resources */ = {isa = PBXBuildFile; fileRef = D197647D1FE3CFB50067DF08 /* truck.png */; };
+		D19A1EC420C159ED0016663B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D19A1EC320C159ED0016663B /* ResultViewController.swift */; };
+		D1A515AC201B353600B40604 /* gameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1A515AB201B353600B40604 /* gameViewController.swift */; };
+		D1A6F1DD20495E1F00C19CB8 /* kanen.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A6F1DC20495E1F00C19CB8 /* kanen.png */; };
+		D1A6F1DF20495FC900C19CB8 /* 604129.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A6F1DE20495FC900C19CB8 /* 604129.png */; };
+		D1A6F1E12058C8CB00C19CB8 /* danbo.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A6F1E02058C8CB00C19CB8 /* danbo.png */; };
+		D1A6F1E3205AB24700C19CB8 /* sodai2.png in Resources */ = {isa = PBXBuildFile; fileRef = D1A6F1E2205AB24600C19CB8 /* sodai2.png */; };
 		D1BBBEA31FB5B8640098509F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BBBEA21FB5B8640098509F /* AppDelegate.swift */; };
 		D1BBBEA51FB5B8640098509F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BBBEA41FB5B8640098509F /* ViewController.swift */; };
 		D1BBBEA81FB5B8640098509F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BBBEA61FB5B8640098509F /* Main.storyboard */; };
@@ -14,6 +38,7 @@
 		D1BBBEAD1FB5B8640098509F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BBBEAB1FB5B8640098509F /* LaunchScreen.storyboard */; };
 		D1BBBEB81FB5B8640098509F /* garbageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BBBEB71FB5B8640098509F /* garbageTests.swift */; };
 		D1BBBEC31FB5B8640098509F /* garbageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BBBEC21FB5B8640098509F /* garbageUITests.swift */; };
+		D1F8EA581FE3D4E900929869 /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1F8EA571FE3D4E900929869 /* SubViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +59,30 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D19764511FD169280067DF08 /* gomiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gomiViewController.swift; path = ../gomiViewController.swift; sourceTree = "<group>"; };
+		D197646D1FE3CFB50067DF08 /* bin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bin.png; sourceTree = "<group>"; };
+		D197646E1FE3CFB50067DF08 /* bottle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottle.png; sourceTree = "<group>"; };
+		D197646F1FE3CFB50067DF08 /* can.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = can.png; sourceTree = "<group>"; };
+		D19764701FE3CFB50067DF08 /* denchi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = denchi.png; sourceTree = "<group>"; };
+		D19764711FE3CFB50067DF08 /* gomiyashiki.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gomiyashiki.png; sourceTree = "<group>"; };
+		D19764721FE3CFB50067DF08 /* kami.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kami.png; sourceTree = "<group>"; };
+		D19764731FE3CFB50067DF08 /* kinzoku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kinzoku.png; sourceTree = "<group>"; };
+		D19764741FE3CFB50067DF08 /* moenai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moenai.png; sourceTree = "<group>"; };
+		D19764751FE3CFB50067DF08 /* moeru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moeru.png; sourceTree = "<group>"; };
+		D19764761FE3CFB50067DF08 /* namagomi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = namagomi.png; sourceTree = "<group>"; };
+		D19764771FE3CFB50067DF08 /* petbottle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = petbottle.png; sourceTree = "<group>"; };
+		D19764781FE3CFB50067DF08 /* plastic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plastic.png; sourceTree = "<group>"; };
+		D19764791FE3CFB50067DF08 /* shigen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shigen.png; sourceTree = "<group>"; };
+		D197647A1FE3CFB50067DF08 /* sodai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sodai.png; sourceTree = "<group>"; };
+		D197647B1FE3CFB50067DF08 /* sonohoka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sonohoka.png; sourceTree = "<group>"; };
+		D197647C1FE3CFB50067DF08 /* sutiroru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sutiroru.png; sourceTree = "<group>"; };
+		D197647D1FE3CFB50067DF08 /* truck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = truck.png; sourceTree = "<group>"; };
+		D19A1EC320C159ED0016663B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		D1A515AB201B353600B40604 /* gameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameViewController.swift; sourceTree = "<group>"; };
+		D1A6F1DC20495E1F00C19CB8 /* kanen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kanen.png; path = Sozai/kanen.png; sourceTree = SOURCE_ROOT; };
+		D1A6F1DE20495FC900C19CB8 /* 604129.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 604129.png; path = Sozai/604129.png; sourceTree = SOURCE_ROOT; };
+		D1A6F1E02058C8CB00C19CB8 /* danbo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = danbo.png; sourceTree = "<group>"; };
+		D1A6F1E2205AB24600C19CB8 /* sodai2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sodai2.png; sourceTree = "<group>"; };
 		D1BBBE9F1FB5B8640098509F /* garbage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = garbage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1BBBEA21FB5B8640098509F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1BBBEA41FB5B8640098509F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +96,7 @@
 		D1BBBEBE1FB5B8640098509F /* garbageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = garbageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1BBBEC21FB5B8640098509F /* garbageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = garbageUITests.swift; sourceTree = "<group>"; };
 		D1BBBEC41FB5B8640098509F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1F8EA571FE3D4E900929869 /* SubViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +124,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D197646C1FE3CFB50067DF08 /* Sozai */ = {
+			isa = PBXGroup;
+			children = (
+				D197646D1FE3CFB50067DF08 /* bin.png */,
+				D197646E1FE3CFB50067DF08 /* bottle.png */,
+				D197646F1FE3CFB50067DF08 /* can.png */,
+				D19764701FE3CFB50067DF08 /* denchi.png */,
+				D1A6F1E02058C8CB00C19CB8 /* danbo.png */,
+				D19764711FE3CFB50067DF08 /* gomiyashiki.png */,
+				D19764721FE3CFB50067DF08 /* kami.png */,
+				D19764731FE3CFB50067DF08 /* kinzoku.png */,
+				D1A6F1DC20495E1F00C19CB8 /* kanen.png */,
+				D19764741FE3CFB50067DF08 /* moenai.png */,
+				D19764751FE3CFB50067DF08 /* moeru.png */,
+				D19764761FE3CFB50067DF08 /* namagomi.png */,
+				D1A6F1DE20495FC900C19CB8 /* 604129.png */,
+				D19764771FE3CFB50067DF08 /* petbottle.png */,
+				D19764781FE3CFB50067DF08 /* plastic.png */,
+				D19764791FE3CFB50067DF08 /* shigen.png */,
+				D197647A1FE3CFB50067DF08 /* sodai.png */,
+				D197647B1FE3CFB50067DF08 /* sonohoka.png */,
+				D197647C1FE3CFB50067DF08 /* sutiroru.png */,
+				D197647D1FE3CFB50067DF08 /* truck.png */,
+				D1A6F1E2205AB24600C19CB8 /* sodai2.png */,
+			);
+			path = Sozai;
+			sourceTree = "<group>";
+		};
 		D1BBBE961FB5B8630098509F = {
 			isa = PBXGroup;
 			children = (
@@ -97,8 +175,13 @@
 		D1BBBEA11FB5B8640098509F /* garbage */ = {
 			isa = PBXGroup;
 			children = (
+				D197646C1FE3CFB50067DF08 /* Sozai */,
 				D1BBBEA21FB5B8640098509F /* AppDelegate.swift */,
 				D1BBBEA41FB5B8640098509F /* ViewController.swift */,
+				D19764511FD169280067DF08 /* gomiViewController.swift */,
+				D1F8EA571FE3D4E900929869 /* SubViewController.swift */,
+				D1A515AB201B353600B40604 /* gameViewController.swift */,
+				D19A1EC320C159ED0016663B /* ResultViewController.swift */,
 				D1BBBEA61FB5B8640098509F /* Main.storyboard */,
 				D1BBBEA91FB5B8640098509F /* Assets.xcassets */,
 				D1BBBEAB1FB5B8640098509F /* LaunchScreen.storyboard */,
@@ -232,9 +315,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D19764831FE3CFB50067DF08 /* gomiyashiki.png in Resources */,
+				D19764851FE3CFB50067DF08 /* kinzoku.png in Resources */,
+				D197648E1FE3CFB50067DF08 /* sutiroru.png in Resources */,
+				D19764811FE3CFB50067DF08 /* can.png in Resources */,
+				D19764841FE3CFB50067DF08 /* kami.png in Resources */,
+				D19764821FE3CFB50067DF08 /* denchi.png in Resources */,
 				D1BBBEAD1FB5B8640098509F /* LaunchScreen.storyboard in Resources */,
+				D1A6F1DD20495E1F00C19CB8 /* kanen.png in Resources */,
 				D1BBBEAA1FB5B8640098509F /* Assets.xcassets in Resources */,
+				D197648A1FE3CFB50067DF08 /* plastic.png in Resources */,
+				D19764861FE3CFB50067DF08 /* moenai.png in Resources */,
+				D197648D1FE3CFB50067DF08 /* sonohoka.png in Resources */,
+				D19764871FE3CFB50067DF08 /* moeru.png in Resources */,
 				D1BBBEA81FB5B8640098509F /* Main.storyboard in Resources */,
+				D197648B1FE3CFB50067DF08 /* shigen.png in Resources */,
+				D197647F1FE3CFB50067DF08 /* bin.png in Resources */,
+				D19764881FE3CFB50067DF08 /* namagomi.png in Resources */,
+				D1A6F1E12058C8CB00C19CB8 /* danbo.png in Resources */,
+				D19764801FE3CFB50067DF08 /* bottle.png in Resources */,
+				D197648F1FE3CFB50067DF08 /* truck.png in Resources */,
+				D1A6F1DF20495FC900C19CB8 /* 604129.png in Resources */,
+				D197648C1FE3CFB50067DF08 /* sodai.png in Resources */,
+				D19764891FE3CFB50067DF08 /* petbottle.png in Resources */,
+				D1A6F1E3205AB24700C19CB8 /* sodai2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +363,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D19764521FD169280067DF08 /* gomiViewController.swift in Sources */,
 				D1BBBEA51FB5B8640098509F /* ViewController.swift in Sources */,
 				D1BBBEA31FB5B8640098509F /* AppDelegate.swift in Sources */,
+				D1A515AC201B353600B40604 /* gameViewController.swift in Sources */,
+				D1F8EA581FE3D4E900929869 /* SubViewController.swift in Sources */,
+				D19A1EC420C159ED0016663B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +613,7 @@
 				D1BBBEC91FB5B8640098509F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1BBBECA1FB5B8640098509F /* Build configuration list for PBXNativeTarget "garbageTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +622,7 @@
 				D1BBBECC1FB5B8640098509F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D1BBBECD1FB5B8640098509F /* Build configuration list for PBXNativeTarget "garbageUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +631,7 @@
 				D1BBBECF1FB5B8640098509F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
